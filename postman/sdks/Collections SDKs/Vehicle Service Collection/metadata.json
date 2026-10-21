@@ -1,0 +1,84 @@
+{
+  "entityId": "545DB3b321d80E0Fcc512Afd",
+  "entityType": "collections",
+  "buildId": 49679,
+  "createdAt": "2026-10-21T18:02:12.575Z",
+  "downloads": [
+    {
+      "language": "python",
+      "status": "success",
+      "createdAt": "2026-10-21T18:02:12.584Z",
+      "link": "",
+      "contentHash": "14321b964897867f7a7c6b16a6953ec9ef50b61c3e00d3cf1f3603bfbfb67aaa",
+      "logs": [
+        {
+          "message": "Request \"Create a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Create a vehicle",
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Request \"Retrieve a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Retrieve a vehicle",
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Request \"Update a collection\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Update a collection",
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Request \"Delete a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Delete a vehicle",
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Request \"Get all vehicles\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Get all vehicles",
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Mapped API: 1 service, 5 operations, 1 model, 1 auth scheme.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Mapped models: 1.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Mapped services: 1 service, 5 operations.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Authentication schemes: 1.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Generating Python SDK.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        },
+        {
+          "message": "Rendered 58 pre-delivery SDK files.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-21T18:02:18.325Z"
+        }
+      ]
+    }
+  ],
+  "sdkName": "vehicle-service-collection-sdk"
+}

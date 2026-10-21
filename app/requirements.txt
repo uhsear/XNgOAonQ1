@@ -1,0 +1,5 @@
+# The Vehicle Service app uses the SDK generated from the Vehicle Service Collection.
+# Install the local SDK in editable mode along with its runtime dependencies.
+-e ../postman/sdks/Collections SDKs/Vehicle Service Collection/python
+
+python-dotenv>=1.0.0
