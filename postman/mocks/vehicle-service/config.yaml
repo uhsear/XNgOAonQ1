@@ -1,0 +1,16 @@
+id: 01a15f9b-9198-719d-81cc-54344454620f
+version: 1
+name: Vehicle Service Mock
+slug: vehicle-service
+enableSession: true
+protocol: http
+port: 4501
+autoRestartOnChange: true
+logging:
+  level: verbose
+  showBody: true
+scenarios:
+  - name: default
+    path: ./default.js
+    default: true
+    id: 01a15fa9-76cf-702d-a81d-4f7165bfe835
